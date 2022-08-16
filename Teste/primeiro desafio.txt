@@ -1,0 +1,7 @@
+#Entregando Primeiro Desafio da DIO
+
+Arquivo criado para evidenciar a entrega do desafio
+Nele foram criados uma nova pasta e um arquivo texto.
+
+##[Link do repositório Público](https://github.com/JulioSantosJedai/dio-desafio-github-primeiro-repositorio) 
+Obrigado pela Oportunidade
